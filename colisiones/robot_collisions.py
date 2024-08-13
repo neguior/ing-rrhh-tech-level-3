@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Aug 12 20:52:50 2024
+
+@author: Nelson Guio
+"""
+
 def robot_collisions(sequence: str) -> str:
     n = len(sequence)
     collisions = [0] * n
